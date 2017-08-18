@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Online Movie Ticket Booking</title>
+		<meta charset = "utf-8" />
+		<script src = "js/movies.js"></script>
+		<link rel = "stylesheet" href = "css/ucmStyles.css" type = "text/css" />
+	</head>
+	<body>
+		<h1 align="center" > Movie Ticket Booking System </h1>
+		<div id = "header">
+			
+			<div id = "nav">
+				<ul>
+					<li><a href = "main.html" >Home</a></li>
+					<li><a href = "movies.html" >Movies</a></li>
+					<li><a href = "trailers.html" >Trailers</a></li>
+					<li><a href = "ratings.html" >Ratings</a></li>
+					<li><a href = "contactus.html" >Contactus</a></li>
+				</ul>		
+				
+			</div>
+			</div>
+			<center>
+			<div id="container">
+				<h1>Book here</h1>
+				<table>
+					<tr>
+						<td>Movie Name</td><td><select id="moviesList"></select></td>
+					</tr>
+					<tr>
+						<td>Number Of Tickets</td><td><input type="number" id="numberTextBox"/></td>
+					</tr>
+					<tr>
+						<td>Name</td><td><input type="text" id="nameTextBox"/></td>
+					</tr>
+					<tr>
+						<td>Address</td><td>
+							<textarea rows="4" cols="50" id="addressTextArea">
+
+							</textarea></td>
+					</tr>
+					<tr><td></td><td><input style = "background-color:black;color: red; left:80px; width:220px; height:30px;font:15px arial, sans-serif, bold;font-weight: 700;" type="button" id="submitButton" value="Book"/></td></tr>
+					<tr><td></td><td><label id="messageLabel"/></td></tr>
+				</table>
+				
+			</div>
+				
+		<div id = "footer">© 2016 MOVIE TICKET BOOKING SYSTEM. ALL RIGHTS RESERVED.</div>
+		</center>
+	
+		
+	</body>
+</html>

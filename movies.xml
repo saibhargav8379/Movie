@@ -1,0 +1,73 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<movies>
+     <movie>
+            <movieName>Doctor Strange</movieName>
+            <price>5</price>
+            <image>image/doctorstrange.png</image>
+            <trailer>https://www.youtube.com/embed/HSzx-zryEgM</trailer>
+			<rating>3.5</rating>
+	</movie>
+	<movie>
+            <movieName>Finding Dory</movieName>
+            <price>6</price>
+            <image>image/findingdory.png</image>
+            <trailer>https://www.youtube.com/embed/UGWv91YZua4</trailer>
+			<rating>2</rating>
+	</movie>
+	<movie>
+            <movieName>Zootopia</movieName>
+            <price>6</price>
+            <image>image/zootopia.png</image>
+            <trailer>https://www.youtube.com/embed/jWM0ct-OLsM</trailer>
+			<rating>3</rating>
+	</movie>
+	<movie>
+            <movieName>Suicide Squad</movieName>
+            <price>4</price>
+            <image>image/suicidesquad.png</image>
+            <trailer>https://www.youtube.com/embed/UGWv91YZua4</trailer>
+			<rating>3</rating>
+	</movie>
+	<movie>
+            <movieName>The Secret Life of Pets</movieName>
+            <price>6</price>
+            <image>image/pets.png</image>
+            <trailer>https://www.youtube.com/embed/UZ4WBlveGfw</trailer>
+			<rating>3.75</rating>
+	</movie>
+	<movie>
+            <movieName>Finding Dory</movieName>
+            <price>6</price>
+            <image>image/findingdory.png</image>
+            <trailer>https://www.youtube.com/embed/UGWv91YZua4</trailer>
+			<rating>3.5</rating>
+	</movie>
+	<movie>
+            <movieName>Trolls</movieName>
+            <price>7</price>
+            <image>image/findingdory.png</image>
+            <trailer>https://www.youtube.com/embed/xyjm5VQ11TQ</trailer>
+			<rating>3</rating>
+	</movie>
+	<movie>
+            <movieName>Fantastic Beasts and Where to Find Them</movieName>
+            <price>6</price>
+            <image>image/beasts.png</image>
+            <trailer>https://www.youtube.com/embed/sGNnv_g9h4k</trailer>
+			<rating>4</rating>
+	</movie>
+	<movie>
+            <movieName>Captain America: Civil War</movieName>
+            <price>5</price>
+            <image>image/civil.png</image>
+            <trailer>https://www.youtube.com/embed/dKrVegVI0Us</trailer>
+			<rating>4.25</rating>
+	</movie>
+	<movie>
+            <movieName>Star Trek Beyond</movieName>
+            <price>6</price>
+            <image>image/beyond.png</image>
+            <trailer>https://www.youtube.com/embed/XRVD32rnzOw</trailer>
+			<rating>4.5</rating>
+	</movie>
+</movies>
